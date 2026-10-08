@@ -1,0 +1,6 @@
+{
+  "name": "Vmusix",
+  "description": "A premium, minimalist YouTube Music player featuring synced lyrics, offline caching, smart playlists, and song recognition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
